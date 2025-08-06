@@ -3,7 +3,8 @@
 ## Course Info
 - **Instructors:** Roni Rosenfeld and Bryan Wilder  
 - **TAs:** Khurram Yamin  
-- **Meetings:** Tuesdays and Thursdays, 2:00 – 3:20 pm  
+- **Meetings:** Tuesdays and Thursdays, 2:00 – 3:20 pm
+- **Office hours:** see schedule in Canvas
 
 ## Course Description
 Forecasting epidemics is hard: disease outbreaks are driven by an enormous set of factors ranging from the microscopic details of the immune system to the social dynamics of people’s behavior. Are epidemics predictable? And how can data and machine learning methods help us predict them better?
