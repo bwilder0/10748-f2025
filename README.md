@@ -19,6 +19,7 @@ Throughout, students will gain hands-on experience building models, exploring no
 
 
 ## Course Schedule
+BW is Bryan Wilder and RR is Roni Rosenfeld
 
 | Week | Date       | Topic                                                                                           | Assignments                              |
 |:----:|:-----------|:------------------------------------------------------------------------------------------------|:-----------------------------------------|
@@ -48,5 +49,5 @@ Throughout, students will gain hands-on experience building models, exploring no
 | 12   | Thu, Nov 20 | Logan guest lecture? (conditional kernel–based methods)                                         |                                          |
 | 13   | Tue, Nov 25 | BW: targeting and resource allocation                                                           |                                          |
 | 13   | Thu, Nov 27 | no class                                                                                        | Homework 5: r0/rt estimation             |
-| 14   | Tue, Dec 2  | Will guest lecture: mixed effects models? (or 12/2)                                             |                                          |
+| 14   | Tue, Dec 2  | Will guest lecture: mixed effects models?                                           |                                          |
 | 14   | Thu, Dec 4  | Quiz 2 + buffer                                                                                 |                                          |
