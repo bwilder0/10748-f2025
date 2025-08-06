@@ -17,6 +17,12 @@ This course will present:
 
 Throughout, students will gain hands-on experience building models, exploring novel data sources, and evaluating forecasters.
 
+## Logistics
+
+- **Questions:** Piazza  
+- **Assignment submission:** Gradescope  
+
+Both of the above can be accessed through the course Canvas page.
 
 ## Course Schedule
 BW is Bryan Wilder and RR is Roni Rosenfeld
