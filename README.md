@@ -32,7 +32,7 @@ Schedule is subject to change
 
 | Week | Date       | Topic                                                                                           | Assignments                              |
 |:----:|:-----------|:------------------------------------------------------------------------------------------------|:-----------------------------------------|
-| 1    | Tue, Aug 26 | Both: course goals, mechanics and policy.  Motivation.  Start intro to epidemiology            |                                          |
+| 1    | Tue, Aug 26 | Both: course goals, mechanics and policy.  RR: Motivation.  Start intro to epidemiology            |                                          |
 | 1    | Thu, Aug 28 | RR: computational intro to epidemiology and viruses                                            |                                          |
 | 2    | Tue, Sep 2  | BW: compartmental models                                                                       |                                          |
 | 2    | Thu, Sep 4  | BW: elaborations on compartmental models, networks                                             | BW: Homework 1: compartmental models     |
