@@ -28,7 +28,7 @@ Both of the above can be accessed through the course Canvas page.
 ## Course Schedule
 BW is Bryan Wilder and RR is Roni Rosenfeld
 
-Schedule is subject to change
+**Schedule is subject to change**
 
 | Week | Date       | Topic                                                                                           | Assignments                              |
 |:----:|:-----------|:------------------------------------------------------------------------------------------------|:-----------------------------------------|
