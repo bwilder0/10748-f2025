@@ -58,5 +58,5 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 12   | Thu, Nov 20 | Guest lecture by Logan Brooks (conditional kernel–based methods)                                         |                                          |
 | 13   | Tue, Nov 25 | BW: targeting and resource allocation                                                           |                                          |
 | 13   | Thu, Nov 27 | no class                                                                                        | Homework 5: r0/rt estimation             |
-| 14   | Tue, Dec 2  | Guest lecture by Will Towns (mixed effects models)                                           |                                          |
+| 14   | Tue, Dec 2  | Guest lecture by Will Townes (mixed effects models)                                           |                                          |
 | 14   | Thu, Dec 4  | Quiz 2 + buffer                                                                                 |                                          |
