@@ -32,14 +32,14 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 
 | Week | Date       | Topic                                                                                           | Assignments                              |
 |:----:|:-----------|:------------------------------------------------------------------------------------------------|:-----------------------------------------|
-| 1    | Tue, Aug 26 | Both: course goals, mechanics, policy and philosophy.  <br> RR: Course Motivation.  Start intro to epidemiology            |                                          |
-| 1    | Thu, Aug 28 | RR: computational intro to epidemiology and viruses                                            |                                          |
-| 2    | Tue, Sep 2  | BW: compartmental models                                                                       |                                          |
-| 2    | Thu, Sep 4  | BW: elaborations on compartmental models, networks                                             | BW: Homework 1: compartmental models     |
-| 3    | Tue, Sep 9  | BW: applying models: forecasting and scenarios                                                 |                                          |
-| 3    | Thu, Sep 11 | RR: Agent-Based Modeling (ABM)  (aka simulations)                                               |                                          |
-| 4    | Tue, Sep 16 | RR: Drivers of epidemics 1: dynamics of immunity and pathogen evolution (incl models thereof)  |                                          |
-| 4    | Thu, Sep 18 | RR: Drivers of epidemics 1: environment and behavior                                           |                                          |
+| 1    | Tue, Aug 26 | Both: course goals, mechanics, policy and philosophy.  <br> RR: Course Motivation.  Start intro to epidemiology |                         |
+| 1    | Thu, Aug 28 | RR: computational intro to ID epidemiology                                                     |                                          |
+| 2    | Tue, Sep 2  | RR: cont. computational intro to ID epidemiology <br> BW: start compartmental models          |                                           |
+| 2    | Thu, Sep 4  | BW: cont. compartmental models                                                                 |                                          |
+| 3    | Tue, Sep 9  | BW: elaborations on compartmental models, networks                                             |   BW: Homework 1: compartmental models   |
+| 3    | Thu, Sep 11 | BW: applying models: forecasting and scenarios                                                |                                           |
+| 4    | Tue, Sep 16 | RR: Agent-Based Modeling (ABM)  (aka simulations)  |                                          |
+| 4    | Thu, Sep 18 | RR: Drivers of epidemics 1: dynamics of immunity and pathogen evolution (incl models thereof) <br> RR: Drivers of epidemics 1: environment and behavior                                           |                                          |
 | 5    | Tue, Sep 23 | BW: forecasting and nowcasting introduction (+Empirical Bayes, human judgment, Full Bayes/MCMC) |                                          |
 | 5    | Thu, Sep 25 | BW: scoring and evaluation                                                                     | Homework 2: simulation                   |
 | 6    | Tue, Sep 30 | RR: Time series models                                                                         |                                          |
