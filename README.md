@@ -32,7 +32,7 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 
 | Week | Date       | Topic                                                                                           | Assignments                              |
 |:----:|:-----------|:------------------------------------------------------------------------------------------------|:-----------------------------------------|
-| 1    | Tue, Aug 26 | Both: course goals, mechanics, policy and philosophy.  <br> RR: Course Motivation.  Start intro to epidemiology |                         |
+| 1    | Tue, Aug 26 | RR: course policy and philosophy. Course Motivation. Start intro to epidemiology |                         |
 | 1    | Thu, Aug 28 | RR: computational intro to ID epidemiology                                                     |                                          |
 | 2    | Tue, Sep 2  | RR: cont. computational intro to ID epidemiology <br> BW: start compartmental models          |                                           |
 | 2    | Thu, Sep 4  | BW: cont. compartmental models                                                                 |                                          |
