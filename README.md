@@ -41,9 +41,9 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 4    | Tue, Sep 16 | RR: Agent-Based Modeling (ABM)  (aka simulations)                                               |                                          |
 | 4    | Thu, Sep 18 | RR: Drivers of epidemics 1: dynamics of immunity and pathogen evolution (incl models thereof) <br> RR: Drivers of epidemics 1: environment and behavior                                           |                                          |
 | 5    | Tue, Sep 23 | BW: forecasting and nowcasting introduction (+Empirical Bayes, human judgment, Full Bayes/MCMC) |                                          |
-| 5    | Thu, Sep 25 | BW: scoring and evaluation                                                                     | Homework 2: simulation                   |
-| 6    | Tue, Sep 30 | RR: Time series models                                                                         |                                          |
-| 6    | Thu, Oct 2  | RR: Auxiliary signals                                                                          |                                          |
+| 5    | Thu, Sep 25 | RR: Time series models                                                                    | Homework 2: simulation                   |
+| 6    | Tue, Sep 30 | RR: Auxiliary signals                                                                          |                                          |
+| 6    | Thu, Oct 2  | BW: scoring and evaluation                                                                           |                                          |
 | 7    | Tue, Oct 7  | Guest lecture by Alex Rodriguez (Deep learning)                                                 |                                          |
 | 7    | Thu, Oct 9  | Quiz 1 + continuation of deep learning (BW)                                                     |                                          |
 | 8    | Tue, Oct 21 | RR: epidemic surveillance data revisions                                                        |                                          |
