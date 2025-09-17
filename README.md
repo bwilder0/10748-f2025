@@ -38,7 +38,7 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 2    | Thu, Sep 4  | BW: cont. compartmental models                                                                 |                                          |
 | 3    | Tue, Sep 9  | BW: elaborations on compartmental models, networks                                             |   BW: Homework 1: compartmental models   |
 | 3    | Thu, Sep 11 | BW: applying models: forecasting and scenarios                                                |                                          |
-| 4    | Tue, Sep 16 | RR: Agent-Based Modeling (ABM)  (aka simulations)                                               |                                          |
+| 4    | Tue, Sep 16 | RR: Agent-Based Models                                                                       |                                          |
 | 4    | Thu, Sep 18 | RR: Drivers of epidemics 1: dynamics of immunity and pathogen evolution (incl models thereof) <br> RR: Drivers of epidemics 1: environment and behavior                                           |                                          |
 | 5    | Tue, Sep 23 | BW: forecasting and nowcasting introduction (+Empirical Bayes, human judgment, Full Bayes/MCMC) | Homework 1 due                                         |
 | 5    | Thu, Sep 25 | RR: Time series models                                                                    | Homework 2: simulation                   |
