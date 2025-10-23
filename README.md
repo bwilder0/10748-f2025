@@ -39,7 +39,7 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 3    | Tue, Sep 9  | BW: elaborations on compartmental models, networks                                             |   BW: Homework 1: compartmental models   |
 | 3    | Thu, Sep 11 | BW: applying models: forecasting and scenarios                                                |                                          |
 | 4    | Tue, Sep 16 | RR: Agent Based Models                                                                       |                                          |
-| 4    | Thu, Sep 18 | RR: cont. ABMs; A computational intro to viruses and their evolution                        |                                          |
+| 4    | Thu, Sep 18 | RR: cont. ABMs <br> RR: A computational introduction to viruses                                             |                                          |
 | 5    | Tue, Sep 23 | BW: forecasting and nowcasting introduction (+Empirical Bayes, human judgment, Full Bayes/MCMC) | Homework 1 due                                         |
 | 5    | Thu, Sep 25 | RR: Time series models                                                                    | Homework 2: simulation                   |
 | 6    | Tue, Sep 30 | RR: Auxiliary signals                                                                          |                                          |
@@ -47,7 +47,7 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 7    | Tue, Oct 7  | Guest lecture by Alex Rodriguez (Deep learning)                                                 |                                          |
 | 7    | Thu, Oct 9  | Quiz 1 + continuation of deep learning (BW)                                                     |                                          |
 | 8    | Tue, Oct 21 | RR: epidemic surveillance data revisions                                                        |                                          |
-| 8    | Thu, Oct 23 | RR: phenotype optimization                                                                      | Homework 3: forecasting                  |
+| 8    | Thu, Oct 23 | RR: cont. data revisions <br> RR: A computational introduction to viral evolution and the immune system                               | Homework 3: forecasting                  |
 | 9    | Tue, Oct 28 | BW: methods for estimating R₀ 1                                                                 |                                          |
 | 9    | Thu, Oct 30 | BW: methods for estimating R₀ 2                                                                 |                                          |
 | 10   | Tue, Nov 4  | no class                                                                                        |                                          |
