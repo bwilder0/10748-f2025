@@ -51,12 +51,12 @@ BW is Bryan Wilder and RR is Roni Rosenfeld
 | 9    | Tue, Oct 28 | BW: methods for estimating R₀ 1                                                                 |                                          |
 | 9    | Thu, Oct 30 | BW: methods for estimating R₀ 2                                                                 |                                          |
 | 10   | Tue, Nov 4  | no class                                                                                        |                                          |
-| 10   | Thu, Nov 6  | BW: computational approaches to Bayesian inference (MCMC/probabilistic programming)             | Homework 4: forecasting 2                |
+| 10   | Thu, Nov 6  | BW: targeting and resource allocation           | Homework 4: forecasting 2                |
 | 11   | Tue, Nov 11 | RR: data assimilation 1 (Kalman filters)                                                        |                                          |
 | 11   | Thu, Nov 13 | RR: data assimilation 2 (particle filtering)                                                    |                                          |
-| 12   | Tue, Nov 18 | Guest lecture by Ryan Tibshirani (quantile prediction, conformal mapping, deconvolution...)                    |                                          |
+| 12   | Tue, Nov 18 | Guest lecture by Daniel McDonald (Rt estimation)                    |                                          |
 | 12   | Thu, Nov 20 | Guest lecture by Logan Brooks (conditional kernel–based methods)                                         |                                          |
-| 13   | Tue, Nov 25 | BW: targeting and resource allocation                                                           |                                          |
-| 13   | Thu, Nov 27 | no class                                                                                        | Homework 5: r0/rt estimation             |
+| 13   | Tue, Nov 25 | Project check-ins                                                            |                                          |
+| 13   | Thu, Nov 27 | no class                                                                                        |               |
 | 14   | Tue, Dec 2  | Guest lecture by Will Townes (mixed effects models)                                           |                                          |
 | 14   | Thu, Dec 4  | Quiz 2 + buffer                                                                                 |                                          |
